@@ -1,9 +1,7 @@
 export function getBasePath() {
-    if (window.location.href.includes('github.io')) {
-        //const path = window.location.href.replace(/https:\/\/(.+)\//, '$1');
+    //Fix for GH-Pages relative paths
+    if (window.location.href.includes('pikne-programy.github.io')) {
         const path = window.location.href.replace(/(.+)\//, '$1');
-        console.log(window.location.href);
-        console.log(path);
         return path;
     } else
         return '';
