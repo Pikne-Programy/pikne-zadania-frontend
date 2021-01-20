@@ -52,9 +52,6 @@ export function getScreenSize() {
  * Returns if the device is used in touch mode
  */
 export function isTouch() {
-    console.log(('ontouchstart' in window));
-    console.log((navigator.maxTouchPoints > 0));
-    console.log((navigator.msMaxTouchPoints > 0));
     return (('ontouchstart' in window) ||
         (navigator.maxTouchPoints > 0) ||
         (navigator.msMaxTouchPoints > 0));
