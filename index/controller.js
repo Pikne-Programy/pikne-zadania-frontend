@@ -2,7 +2,6 @@ import * as Utils from '../helper/utils.js';
 import * as ControllerUtils from '../helper/controller-utils.js';
 import * as Model from './model.js';
 import * as EqEx from '../eqex/controller.js';
-import { importLocal } from '../helper/tests/path-manager.js';
 
 let currentExerciseController = null;
 
@@ -10,7 +9,6 @@ let currentExerciseController = null;
  * Imports dependencies of the controller from CDN and starts main
  */
 export function importDependencies() {
-    importLocal();
     Utils.importScripts([
         'https://polyfill.io/v3/polyfill.min.js?features=es6',
         'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML-full'
