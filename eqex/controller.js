@@ -25,7 +25,6 @@ export class Controller {
                     }], [() => {
                         adjustView(this.screenSize);
                         ControllerUtils.toggleContentLoading(false);
-                        console.log(Utils.isTouch());
                         if (!Utils.isTouch()) {
                             $('#content-container').setCustomScrollbars({
                                 autohide: true,
