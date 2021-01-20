@@ -135,9 +135,6 @@ function onMenuChanged(update = false) {
         ControllerUtils.toggleMenuLoading(false);
         $('#breadcrumbs').parent().show();
         $('#menu-list').show();
-        console.log(('ontouchstart' in window));
-        console.log((navigator.maxTouchPoints > 0));
-        console.log((navigator.msMaxTouchPoints > 0));
         console.log(Utils.isTouch());
         if (!Utils.isTouch()) {
             $('#menu-list-container').setCustomScrollbars({
