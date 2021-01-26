@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" x="0px" y="0px" viewBox="0 0 300 299.99999" xml:space="preserve" sodipodi:docname="logo.svg" width="300" height="300">
+   <metadata id="metadata31">
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <defs id="defs29" />
+   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" />
+   <style type="text/css" id="style2">
+	.st0{fill:#DCE6A5;}
+	.st1{fill:#ACCC62;}
+	.st2{fill:#4FAE32;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+   </style>
+   <path class="st0" d="M 297,22.097279 V 194.67381 l -103.10378,-0.7711 0.77107,103.09727 H 22.09663 c -10.554719,0 -19.0966309,-8.5422 -19.0966309,-19.08726 V 22.097279 c 0,-10.555078 8.5419119,-19.0972807 19.0966309,-19.0972807 H 277.90337 C 288.44807,2.9999983 297,11.542201 297,22.097279 Z" id="path4" style="stroke-width:1.00142" />
+   <polygon class="st1" points="610.37,335.45 507.41,334.68 508.18,437.63 410.06,437.63 368.78,396.35 569.4,195.74 610.37,236.71 " id="polygon6" transform="matrix(1.0013965,0,0,1.0014306,-314.22238,-141.25607)" />
+   <path class="st2" d="m 271.01376,98.957074 v 7.360516 c 0,38.61516 -31.74427,69.90987 -70.89887,69.90987 H 178.2544 v 24.75536 c 0,38.63519 -31.77431,69.96995 -70.95895,69.96995 h -7.360269 c -39.184646,0 -70.958957,-31.33476 -70.958957,-69.96995 V 29.037192 H 200.10487 c 39.16462,0 70.90889,31.30472 70.90889,69.919882 z" id="path8" style="stroke-width:1.00142" />
+   <polygon class="st2" points="507.41,437.63 507.41,334.68 610.37,334.68 610.37,335.06 " id="polygon10" transform="matrix(1.0013965,0,0,1.0014306,-314.22238,-141.25607)" />
+   <line class="st2" x1="297" y1="194.67381" x2="194.87759" y2="297" id="line12" style="stroke-width:1.00142" />
+   <line class="st3" x1="54.501816" y1="60.041481" x2="216.67796" y2="61.032902" id="line14" />
+   <line class="st3" x1="54.291531" y1="96.092979" x2="216.45769" y2="97.074387" id="line16" />
+   <line class="st4" x1="54.07122" y1="132.13446" x2="191.51289" y2="132.96564" id="line18" />
+
+   <path class="st5" d="M 128.14452,210.7668 H 65.15668 c -5.567764,0 -10.084063,-4.51645 -10.084063,-10.08441 v -7.17024 c 0,-5.56795 4.516299,-10.08441 10.084063,-10.08441 h 62.98784 c 5.56777,0 10.08406,4.51646 10.08406,10.08441 v 7.17024 c 0,5.56796 -4.51629,10.08441 -10.08406,10.08441 z" id="path24" style="stroke-width:1.00142" />
+</svg>
